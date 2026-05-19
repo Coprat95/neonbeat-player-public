@@ -26,7 +26,7 @@ El color neón se aplica a toda la UI en tiempo real: logo, sliders, botones, ic
 
 |---------|------|------|
 
-| !\[Home Naranja](screenshots/screenshot\_01.jpg) | !\[Home Cyan](screenshots/screenshot\_02.jpg) | !\[Home Rosa](screenshots/screenshot\_03.jpg) |
+| !\[Home Naranja](screenshots/screenshot\_01.jpeg) | !\[Home Cyan](screenshots/screenshot\_02.jpeg) | !\[Home Rosa](screenshots/screenshot\_03.jpeg) |
 
 
 
@@ -42,7 +42,7 @@ El color neón se aplica a toda la UI en tiempo real: logo, sliders, botones, ic
 
 |---------------------|-----------------|-------------------|
 
-| !\[Player](screenshots/screenshot\_33.jpg) | !\[Mini](screenshots/screenshot\_09.jpg) | !\[Cast TV](screenshots/screenshot\_16.jpg) |
+| !\[Player](screenshots/screenshot\_33.jpeg) | !\[Mini](screenshots/screenshot\_09.jpeg) | !\[Cast TV](screenshots/screenshot\_16.jpeg) |
 
 
 
@@ -68,7 +68,7 @@ El color neón se aplica a toda la UI en tiempo real: logo, sliders, botones, ic
 
 |-----------|------------------------|-----------------|
 
-| !\[Songs](screenshots/screenshot\_05.jpg) | !\[Search](screenshots/screenshot\_19.jpg) | !\[Menu](screenshots/screenshot\_29.jpg) |
+| !\[Songs](screenshots/screenshot\_05.jpeg) | !\[Search](screenshots/screenshot\_19.jpeg) | !\[Menu](screenshots/screenshot\_29.jpeg) |
 
 
 
@@ -76,7 +76,7 @@ El color neón se aplica a toda la UI en tiempo real: logo, sliders, botones, ic
 
 |-----------------|-----------------|-------------------|
 
-| !\[Edit](screenshots/screenshot\_21.jpg) | !\[Delete](screenshots/screenshot\_20.jpg) | !\[Multiselect](screenshots/screenshot\_28.jpg) |
+| !\[Edit](screenshots/screenshot\_21.jpeg) | !\[Delete](screenshots/screenshot\_20.jpeg) | !\[Multiselect](screenshots/screenshot\_28.jpeg) |
 
 
 
@@ -108,7 +108,7 @@ El color neón se aplica a toda la UI en tiempo real: logo, sliders, botones, ic
 
 |-------------------|--------------------|--------------------|
 
-| !\[Playlists](screenshots/screenshot\_30.jpg) | !\[Playlist detail](screenshots/screenshot\_24.jpg) | !\[Add](screenshots/screenshot\_22.jpg) |
+| !\[Playlists](screenshots/screenshot\_30.jpeg) | !\[Playlist detail](screenshots/screenshot\_24.jpeg) | !\[Add](screenshots/screenshot\_22.jpeg) |
 
 
 
@@ -116,7 +116,7 @@ El color neón se aplica a toda la UI en tiempo real: logo, sliders, botones, ic
 
 |---------------|-----------|------------------|
 
-| !\[New](screenshots/screenshot\_31.jpg) | !\[Rename](screenshots/screenshot\_26.jpg) | !\[Delete playlist](screenshots/screenshot\_25.jpg) |
+| !\[New](screenshots/screenshot\_31.jpeg) | !\[Rename](screenshots/screenshot\_26.jpeg) | !\[Delete playlist](screenshots/screenshot\_25.jpeg) |
 
 
 
@@ -140,7 +140,7 @@ El color neón se aplica a toda la UI en tiempo real: logo, sliders, botones, ic
 
 |-------------|-----------|-------------|
 
-| !\[Settings](screenshots/screenshot\_11.jpg) | !\[Appearance](screenshots/screenshot\_12.jpg) | !\[Timer](screenshots/screenshot\_14.jpg) |
+| !\[Settings](screenshots/screenshot\_11.jpeg) | !\[Appearance](screenshots/screenshot\_12.jpeg) | !\[Timer](screenshots/screenshot\_14.jpeg) |
 
 
 
@@ -148,7 +148,7 @@ El color neón se aplica a toda la UI en tiempo real: logo, sliders, botones, ic
 
 |--------------------|-----------------|-----------|
 
-| !\[Colors](screenshots/screenshot\_13.jpg) | !\[Report](screenshots/screenshot\_10.jpg) | !\[About](screenshots/screenshot\_07.jpg) |
+| !\[Colors](screenshots/screenshot\_13.jpeg) | !\[Report](screenshots/screenshot\_10.jpeg) | !\[About](screenshots/screenshot\_07.jpeg) |
 
 
 
