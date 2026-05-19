@@ -26,7 +26,7 @@ El color neón se aplica a toda la UI en tiempo real: logo, sliders, botones, ic
 
 |---------|------|------|
 
-| !\[Home Naranja](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot\_01.jpeg) | !\[Home Cyan](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot\_02.jpeg) | !\[Home Rosa](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot\_03.jpeg) |
+| !\[Home Naranja](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot_01.jpeg) | !\[Home Cyan](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot_02.jpeg) | !\[Home Rosa](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot_03.jpeg) |
 
 
 
@@ -42,7 +42,7 @@ El color neón se aplica a toda la UI en tiempo real: logo, sliders, botones, ic
 
 |---------------------|-----------------|-------------------|
 
-| !\[Player](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot\_33.jpeg) | !\[Mini](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot\_09.jpeg) | !\[Cast TV](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot\_16.jpeg) |
+| !\[Player](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot_33.jpeg) | !\[Mini](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot_09.jpeg) | !\[Cast TV](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot_16.jpeg) |
 
 
 
@@ -68,7 +68,7 @@ El color neón se aplica a toda la UI en tiempo real: logo, sliders, botones, ic
 
 |-----------|------------------------|-----------------|
 
-| !\[Songs](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot\_05.jpeg) | !\[Search](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot\_19.jpeg) | !\[Menu](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot\_29.jpeg) |
+| !\[Songs](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot_05.jpeg) | !\[Search](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot_19.jpeg) | !\[Menu](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot_29.jpeg) |
 
 
 
@@ -76,7 +76,7 @@ El color neón se aplica a toda la UI en tiempo real: logo, sliders, botones, ic
 
 |-----------------|-----------------|-------------------|
 
-| !\[Edit](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot\_21.jpeg) | !\[Delete](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot\_20.jpeg) | !\[Multiselect](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot\_28.jpeg) |
+| !\[Edit](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot_21.jpeg) | !\[Delete](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot_20.jpeg) | !\[Multiselect](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot_28.jpeg) |
 
 
 
@@ -108,7 +108,7 @@ El color neón se aplica a toda la UI en tiempo real: logo, sliders, botones, ic
 
 |-------------------|--------------------|--------------------|
 
-| !\[Playlists](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot\_30.jpeg) | !\[Playlist detail](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot\_24.jpeg) | !\[Add](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot\_22.jpeg) |
+| !\[Playlists](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot_30.jpeg) | !\[Playlist detail](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot_24.jpeg) | !\[Add](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot_22.jpeg) |
 
 
 
@@ -116,7 +116,7 @@ El color neón se aplica a toda la UI en tiempo real: logo, sliders, botones, ic
 
 |---------------|-----------|------------------|
 
-| !\[New](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot\_31.jpeg) | !\[Rename](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot\_26.jpeg) | !\[Delete playlist](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot\_25.jpeg) |
+| !\[New](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot_31.jpeg) | !\[Rename](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot_26.jpeg) | !\[Delete playlist](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot_25.jpeg) |
 
 
 
@@ -140,7 +140,7 @@ El color neón se aplica a toda la UI en tiempo real: logo, sliders, botones, ic
 
 |-------------|-----------|-------------|
 
-| !\[Settings](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot\_11.jpeg) | !\[Appearance](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot\_12.jpeg) | !\[Timer](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot\_14.jpeg) |
+| !\[Settings](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot_11.jpeg) | !\[Appearance](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot_12.jpeg) | !\[Timer](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot_14.jpeg) |
 
 
 
@@ -148,7 +148,7 @@ El color neón se aplica a toda la UI en tiempo real: logo, sliders, botones, ic
 
 |--------------------|-----------------|-----------|
 
-| !\[Colors](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot\_13.jpeg) | !\[Report](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot\_10.jpeg) | !\[About](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot\_07.jpeg) |
+| !\[Colors](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot_13.jpeg) | !\[Report](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot_10.jpeg) | !\[About](https://raw.githubusercontent.com/Coprat95/neonbeat-player-public/main/screenshots/screenshot_07.jpeg) |
 
 
 
